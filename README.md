@@ -1,6 +1,6 @@
 # Hi, I'm Vamsi Kalla 👋
 
-## QA Engineer | Manual Testing |  Automation Testing | API Testing | Playwright | Javascript 
+## QA Engineer | Manual Testing |  Automation Testing | API Testing | Playwright & Javascript Learner | JIRA | SQL | Git  
 
 QA Engineer with 4 years of experience in quality assurance across web, mobile (Android/iOS), and enterprise applications. Skilled in functional testing, API testing using Postman, cross-browser testing, defect management, and end-to-end test execution in Agile Scrum environments.
 
