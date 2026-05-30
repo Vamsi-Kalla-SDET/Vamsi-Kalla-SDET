@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Vamsi 👋
 
-<!--
-**Vamsi-Kalla-SDET/Vamsi-Kalla-SDET** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## QA Engineer | SDET Aspirant
 
-Here are some ideas to get you started:
+### Skills
+- Manual Testing
+- API Testing (Postman)
+- 
+- Playwright
+- JavaScript
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+- Playwright Automation Framework
+- API Testing Collection
+- Python Automation Scripts
+
+### Connect with Me
+- LinkedIn: (https://www.linkedin.com/in/vnaln-vamsi-kalla-9a690aa4/)
+- Email: vnalnvamsi@gmail.com
