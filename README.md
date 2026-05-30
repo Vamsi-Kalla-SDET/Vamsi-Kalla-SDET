@@ -5,7 +5,6 @@
 ### Skills
 - Manual Testing
 - API Testing (Postman)
-- 
 - Playwright
 - JavaScript
 - Git & GitHub
