@@ -2,7 +2,7 @@
 
 ## QA Engineer | Manual Testing |  Automation Testing | API Testing | Playwright & Javascript Learner | JIRA | SQL | Git  
 
-QA Engineer with 4 years of experience delivering high-quality web, mobile (Android/iOS), and enterprise applications across healthcare, insurance, and telecom domains. Experienced in functional testing, API testing using Postman, cross-browser testing, defect management, and end-to-end test execution within Agile Scrum teams.
+QA Engineer with 4 years of experience delivering high-quality web, mobile (Android), and enterprise applications across healthcare, insurance, and telecom domains. Experienced in functional testing, API testing using Postman, cross-browser testing, defect management, and end-to-end test execution within Agile Scrum teams.
 
 I have a strong track record of identifying critical defects, designing effective test scenarios, and ensuring high-quality releases through thorough test coverage and attention to detail.
 
