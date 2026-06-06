@@ -18,7 +18,7 @@ Currently transitioning into Automation QA using Playwright with JavaScript/Type
 * Defect Tracking & Management (JIRA)
 * Agile Scrum Methodology
 
-### Currently Learning
+### Currently Upskilling
 
 * Playwright (JavaScript/TypeScript)
 * Test Automation Framework Design
@@ -29,7 +29,6 @@ Currently transitioning into Automation QA using Playwright with JavaScript/Type
 
 * Playwright Automation Framework
 * API Testing Collections
-* Python Automation Scripts
 * QA Test Cases & Test Artifacts
 
 ### Connect with Me
