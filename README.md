@@ -24,12 +24,6 @@ Experienced in functional testing, API testing using Postman, cross-browser test
 * **API Testing Collections:** Comprehensive Postman collections for functional, integration, and regression testing of backend REST APIs.
 * **QA Test Cases & Test Artifacts:** Structured, high-coverage manual test scenarios, SIT/UAT test cases, and traceability matrices for enterprise projects.
 
-### Featured Projects
-
-* Playwright Automation Framework
-* API Testing Collections
-* QA Test Cases & Test Artifacts
-
 ### Connect with Me
 
 * LinkedIn: [www.linkedin.com/in/vnaln-vamsi-kalla-9a690aa4](http://www.linkedin.com/in/vnaln-vamsi-kalla-9a690aa4)
