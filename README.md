@@ -1,29 +1,28 @@
 # Hi, I'm Vamsi Kalla 👋
 
-QA Engineer with 5 years of experience delivering high-quality web, mobile (Android), and enterprise applications across healthcare, insurance, and telecom domains. Experienced in functional testing, API testing using Postman, cross-browser testing, defect management, and end-to-end test execution within Agile Scrum teams.
+QA Automation Engineer with 5.1 years of experience delivering high-quality web, mobile (Android), and enterprise applications across healthcare, insurance, and telecom domains. Combining over 4 years of robust manual testing expertise with nearly 1 year of hands-on experience building end-to-end automation test suites using Playwright (JavaScript/TypeScript).
 
-I have a strong track record of identifying critical defects, designing effective test scenarios, and ensuring high-quality releases through thorough test coverage and attention to detail.
-
-Currently transitioning into Automation QA using Playwright with JavaScript/TypeScript. Passionate about catching bugs before they reach production."
+Experienced in functional testing, API testing using Postman, cross-browser testing, defect management, and end-to-end test execution within Agile Scrum teams. Proven track record of implementing shift-left testing principles to catch critical defects early, optimize test cycles, and ensure rock-solid production stability.
 
 ### Core Skills
 
-* Functional Testing
-* API Testing (Postman)
-* Regression Testing
-* Smoke & Sanity Testing
-* Mobile Testing (Android only)
-* Cross-Browser Testing
-* Test Case Design & Execution
-* Defect Tracking & Management (JIRA)
-* Agile Scrum Methodology
+* **Automation Testing:** Playwright (JavaScript/TypeScript), Test Automation Framework Design
+* **API Testing:** Postman, Rest API Testing
+* **Manual Testing:** Functional, Regression, Smoke, Sanity, and End-to-End Testing
+* **Mobile Testing:** Android App Testing
+* **Processes & Tools:** JIRA, Agile Scrum Methodology, Defect Life Cycle Management, Cross-Browser Testing, Test Case Design & Execution
 
-### Currently Upskilling
+### Currently Upskilling / Deep Diving
 
-* Playwright (JavaScript/TypeScript)
-* Test Automation Framework Design
-* CI/CD Integration
-* Git & GitHub
+* CI/CD Pipeline Integration (GitHub Actions/Jenkins for Test Automation)
+* Advanced Playwright Framework Optimization (Page Object Model enhancement, Parallel Execution)
+* Git & GitHub version control workflows
+
+### Featured Projects
+
+* **Playwright Automation Framework:** End-to-end automated test suites built using JavaScript/TypeScript, focusing on scalable Page Object Model (POM) design.
+* **API Testing Collections:** Comprehensive Postman collections for functional, integration, and regression testing of backend REST APIs.
+* **QA Test Cases & Test Artifacts:** Structured, high-coverage manual test scenarios, SIT/UAT test cases, and traceability matrices for enterprise projects.
 
 ### Featured Projects
 
